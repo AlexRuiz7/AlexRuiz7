@@ -3,11 +3,11 @@
 <h3 align="center">Full-stack developer from Spain</h3>
 
 
--   🔭 I’m currently working on [Wazuh](https://wazuh.com/)
+-   🔭 I’m currently working on **[Wazuh](https://wazuh.com/)**
 
--   🌱 I’m currently learning **Apache Lucene**
+-   🌱 I’m currently learning **OpenSearch / Apache Lucene**
 
--   ⚡ I'm my free time **I like to contribute to Forgotten Hope 2**
+-   ⚡ I'm my free time **I like to contribute to [Forgotten Hope 2](http://forgottenhope.warumdarum.de/)**
 
 
 <!-- 
